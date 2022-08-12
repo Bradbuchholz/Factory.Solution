@@ -16,7 +16,7 @@ _You've been contracted by the factory of the famous Dr. Sillystringz to build a
 
 ## Setup / Installation 
 
-<!-- 1. Download and install **`dotnet 5.0`** on your computer. 
+1. Download and install **`dotnet 5.0`** on your computer. 
 2. Clone the GitHub [repository](https://github.com/Bradbuchholz/Factory.Solution.git) onto your computer.
 3. Make sure to have MySql Workbench installed on your computer.
 4. Make sure to have dotnet-ef installed - this project uses **`version 5.0.1`**. I have it globally installed, but you can also install it just in this directory. 
@@ -47,4 +47,4 @@ _You've been contracted by the factory of the famous Dr. Sillystringz to build a
 ## Known Bugs 
 * Application currently has bare bones UI, could use custom styling. 
 ## License
-_Copyright (c) Brad Buchholz_ -->
+_Copyright (c) Brad Buchholz_
